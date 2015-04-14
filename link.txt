@@ -2,6 +2,8 @@ https://github.com/sarasoueidan/windows8-animations/
 http://tympanus.net/Tutorials/ThumbnailGridExpandingPreview/
 http://www.queness.com/post/16566/create-attractive-animated-hover-effects-easily
 http://www.bypeople.com/jquery-effects/
+http://www.webdesignersblog.net/tutorials/35-cool-jquery-and-css-animation-effects/
+
 
 
 
