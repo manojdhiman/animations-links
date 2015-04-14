@@ -2,3 +2,10 @@ https://github.com/sarasoueidan/windows8-animations/
 http://tympanus.net/Tutorials/ThumbnailGridExpandingPreview/
 http://www.queness.com/post/16566/create-attractive-animated-hover-effects-easily
 http://www.bypeople.com/jquery-effects/
+
+
+
+
+datepicker 
+
+http://www.htmldrive.net/items/show/1496/clock-style-timepicker-with-jQuery
