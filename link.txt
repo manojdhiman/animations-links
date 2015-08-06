@@ -11,3 +11,9 @@ hover zoom effect http://www.htmldrive.net/items/demo/1398/EasyZoom-jQuery-image
 datepicker 
 
 http://www.htmldrive.net/items/show/1496/clock-style-timepicker-with-jQuery
+
+
+
+fb style chat
+
+http://qnimate.com/facebook-style-chat-box-popup-using-javascript-and-css/
