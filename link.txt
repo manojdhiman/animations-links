@@ -25,9 +25,4 @@ pic 2 http://goo.gl/CtHbFs
 
 http://goo.gl/naD0Tg
 
-phons
-
-1. ASUS ZenFone 2 Laser priced at 9999 only, 5.5 inch HD screen,  13MP + 5MP camera with Laser auto focus, corning Gorilla Glass 4 (But you have to wait a little, Asus has announced that this model is gonna hit the market very soon)
-2. Xiaoni Mi4i priced at 12999(16GB) and 14999(32GB), 5 inch full HD display and excellent camera.
-3. Samsung galaxy j5 and j7.
-4. Lenovo K3 Note."
+ #SOreadytohelp http://stackoverflow.com/users/4587821/manoj-dhiman
