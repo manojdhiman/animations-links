@@ -1,3 +1,7 @@
+https://www.quora.com/How-can-I-prepare-for-interviews-in-any-big-software-company-like-Google-Facebook-Amazon-Akamai-Microsoft-DE-Shaw-Salesforce-Flipkart-Expedia-Morgan-Stanley-Goldman-Sachs-Adobe-eBay-Walmart-LinkedIn-etc
+
+
+
 https://ashayraut.files.wordpress.com/2014/05/interview-preparation-best-100-ashay-raut.pdf
 http://www.geeksforgeeks.org/
 https://www.quora.com/What-are-the-standard-puzzles-asked-in-programming-interviews?srid=Xymv&share=1
@@ -6,7 +10,49 @@ http://www.programmerinterview.com/index.php/puzzles/introduction/
 http://www.folj.com/puzzles/very-difficult-analytical-puzzles.htm
 http://stackoverflow.com/questions/24594112/when-will-the-worst-case-of-merge-sort-occur/24594419#24594419
 http://stackoverflow.com/questions/47981/how-do-you-set-clear-and-toggle-a-single-bit-in-c-c
-
+http://superuser.com/questions/31468/what-exactly-happens-when-you-browse-a-website-in-your-browser
+http://edusagar.com/articles/view/70/What-happens-when-you-type-a-URL-in-browser
+http://javarevisited.blogspot.in/2011/04/garbage-collection-in-java.html
+http://stackoverflow.com/questions/4029838/determine-page-table-size-for-virtual-memory
+http://anee.me/i-have-a-c-program-which-loops-n-times-calling-fork-each-loop-how-many-child-processes-do-this-program-create/
+http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/Sorting/heapSort.htm
+http://stackoverflow.com/questions/19191608/how-to-divide-a-network-into-eleven-subnets/
+http://stackoverflow.com/questions/16323890/calculating-page-table-size
+http://www.cplusplus.com/reference/cstdlib/qsort/
+http://courses.cs.vt.edu/csonline/OS/Lessons/Processes/index.html
+http://stackoverflow.com/questions/9923959/no-virtual-constructors-but-virtual-destructor
+http://stackoverflow.com/questions/24516456/merge-n-coins-with-minimum-cost-to-create-one-single-coin
+http://www.tutorialspoint.com/dbms/database_normalization.htm
+http://www.ritambhara.in/
+http://stackoverflow.com/questions/2631726/how-to-determine-the-longest-increasing-subsequence-using-dynamic-programming
+http://www.programmerinterview.com/index.php/database-sql/find-nth-highest-salary-sql/
+http://javarevisited.blogspot.in/2010/10/why-string-is-immutable-in-java.html
+https://drive.google.com/folderview?id=0B1yxI2jtZe9_bHBKRl85ODhqYms&usp=sharing
+http://people.cs.clemson.edu/~bcdean/dp_practice/
+https://www.quora.com/What-are-some-of-the-most-memorable-interview-experiences-you-have-come-across/answer/Ayush-Jain-62
+https://drive.google.com/file/d/0B1yxI2jtZe9_UWM4TlVMOUpJNjVqVmRpNXNpRjhqTi1paVVJ/view
 
 hourses
 http://www.ritambhara.in/fastest-horse-interview-question/#more-2855
+
+
+
+android apps
+
+SQL Reference
+
+
+carefully need to read
+
+https://www.linkedin.com/pulse/20140715123318-20017018-ten-simple-steps-to-the-perfect-job-interview
+
+
+resume writing skill
+http://www.geeksforgeeks.org/google-facebook-amazon-walmart-pocketgems-all-fighting-for-prasoon-mishra/
+https://www.toptalent.in/Prasoon-Mishra-Resume.pdf
+
+
+
+aptitude
+
+https://drive.google.com/file/d/0B1yxI2jtZe9_TDd3YXNVNXlTT1Z3VlBSLWlOQmpWc25uSGdZ/view
